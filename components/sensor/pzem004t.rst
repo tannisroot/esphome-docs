@@ -3,7 +3,7 @@ Peacefair PZEM-004T Energy Monitor
 
 .. seo::
     :description: Instructions for setting up PZEM-004T power monitors.
-    :image: pzem004t.png
+    :image: pzem004t.svg
     :keywords: PZEM-004T
 
 .. note::

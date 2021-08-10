@@ -3,7 +3,7 @@ OTA Update Component
 
 .. seo::
     :description: Instructions for setting up Over-The-Air (OTA) updates for ESPs to upload firmwares remotely.
-    :image: system-update.png
+    :image: system-update.svg
     :keywords: Xiaomi, Mi Flora, BLE, Bluetooth
 
 With the OTA (Over The Air) update component you can upload your
